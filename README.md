@@ -28,4 +28,4 @@ Decision boundaries and classification regions are visualized for each kernel ty
 ---
 
 ## 📜 License
-MIT License (if you add one)
+MIT License
