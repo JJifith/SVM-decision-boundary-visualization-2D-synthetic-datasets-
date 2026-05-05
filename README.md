@@ -1,6 +1,6 @@
 # SVM Decision Boundary Visualization (2D Synthetic Datasets)
-
-This project visualizes the decision boundaries of Support Vector Machine (SVM) classifiers using different kernels (linear, polynomial, RBF, sigmoid) on multiple 2D synthetic datasets. Implemented in Google Colab using `scikit-learn` and `matplotlib`.
+ 
+This project visualizes the decision boundaries of Support Vector Machine (SVM) classifiers using different kernels (linear, polynomial, RBF, sigmoid) on multiple 2D synthetic datasets. Implemented in Google Colab using `scikit-learn` and `matplotlib` as part of academic coursework.
 
 ## 📊 Datasets Used
 - Blobs
